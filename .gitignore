@@ -1,0 +1,9 @@
+.idea
+.vs
+[Dd]ebug
+[Rr]elease
+exec
+cmake-build-debug
+main
+app
+*.exe
